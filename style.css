@@ -4,6 +4,7 @@ body {
 }
 
 .listContainer {
+    list-style-position: inside;
     text-align: left;
     margin: 40%;
 }
