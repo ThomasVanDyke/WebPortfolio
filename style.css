@@ -4,6 +4,9 @@ body {
     background-color: lightblue !important;
 }
 
+.listContainer {
+    list-style-position: inside;
+}
 
 .pageContainer {
     width: 900;
