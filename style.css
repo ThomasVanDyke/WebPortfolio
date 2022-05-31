@@ -3,9 +3,14 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.listContainer {
+    text-align: left;
+    margin: 40%;
+}
+
 .pageContainer {
     width: 900;
-    background-color: bisque;
+    background-color: rgb(0, 88, 202);
 }
 
 .articleContainer {
@@ -13,9 +18,9 @@ body {
 }
 
 a:visited {
-    color:red
+    color:red;
 }
 
 a:hover {
-    color:white;
+    color:green;
 }
