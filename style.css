@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: lightblue;
+    background-color: lightblue !important;
 }
 
 .listContainer {
@@ -15,7 +15,6 @@ body {
 
 .articleContainer {
     padding:0px;
-    background-color: lightblue;
 }
 
 a:visited {
