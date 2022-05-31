@@ -1,4 +1,21 @@
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .pageContainer {
     width: 900;
     background-color: bisque;
+}
+
+.articleContainer {
+    padding:50px
+}
+
+a:visited {
+    color:red
+}
+
+a:hover {
+    color:white;
 }
