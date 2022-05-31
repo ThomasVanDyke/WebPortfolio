@@ -14,7 +14,8 @@ body {
 }
 
 .articleContainer {
-    padding:0px
+    padding:0px;
+    background-color: lightblue;
 }
 
 a:visited {
