@@ -1,11 +1,11 @@
 body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: lightblue !important;
+    background-color: lightblue !important; /* couldn't get it to work otherwise */
 }
 
 .listContainer {
-    list-style-position: inside;
+    list-style-position: inside; /* keeps the dots/numbers near the content */
 }
 
 .pageContainer {
@@ -23,4 +23,12 @@ a:visited {
 
 a:hover {
     color:green;
+}
+
+.pageContainer, h1 {
+    font-size: 42;
+}
+
+hr {
+    height: 5px;
 }
